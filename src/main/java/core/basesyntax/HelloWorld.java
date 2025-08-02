@@ -13,7 +13,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         Dog dog = new Dog();
         Cat cat = new Cat();
-        System.out.println("dds");
     }
 
     private String getFromOneToTen() {
